@@ -18,7 +18,7 @@ const DynamicPageTitle = () => {
         }
     };
 
-    return (
+    return ( 
         <HelmetProvider>
             <Helmet>
                 <title>{switchPageTitle(location.pathname)} | Atma Kitchen</title>

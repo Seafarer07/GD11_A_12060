@@ -24,7 +24,7 @@ const LoginPage = () => {
       </p>
       <hr className="featurette-divider" />
       <FormLogin />
-    </Container>
+    </Container> 
   );
 };
 

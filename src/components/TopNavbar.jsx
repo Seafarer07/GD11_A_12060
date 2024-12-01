@@ -35,7 +35,7 @@ const TopNavbar = ({ routes }) => {
                             alt="Crown Logo"
                             src={imgLogo}
                             width="50"
-                            height="50"
+                            height="50" 
                             className="d-inline-block align-top"
                         />
                         <div className="ms-2">
